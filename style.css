@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 255, 136);
+
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+.paragraph1{
+    margin: 0 20px 0 20px;
+}
+.pictures{
+    margin: 0 auto;
+    display: block;
+    float: right;
+}
